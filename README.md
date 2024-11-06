@@ -1,31 +1,41 @@
-<img align="right" height="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2E4anVmMmh5NTBlNzFyYXhiNnkzOGxzMmE4bTBwOWxjamZ1dHltayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<h2 align="center">Informações ✍</h2>
 
 ###
 
+<h3 align="center">⚜Formações Pessoais</h3>
+
+###
+
+<br clear="both">
+
 <div align="center">
   <a href="https://www.instagram.com/santoziin/#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="23" alt="instagram logo"  />
   </a>
   <a href="https://api.whatsapp.com/send?phone=5599991547295&text=ola,%20vim%20pelo%20git" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="35" height="23" alt="whatsapp logo"  />
   </a>
 </div>
 
 ###
 
-<h3 align="left">👩‍💻  Técnico em Informática</h3>
+<br clear="both">
+
+<p align="center">Mikael Santos<br>01/2007<br>Açailândia - MA🌆<br>Técnico de Informática👩‍💻</p>
 
 ###
 
-<p align="left">Desenvolvedor Web<br>Story Maker<br>Estudante<br>Pesquisador</p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Mkxit777/Mkxit777/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<h3 align="left">🛠 Language</h3>
+<h3 align="center">🛠 Habilidades</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
@@ -55,6 +65,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mkxit777&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mkxit777&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="-11" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2E4anVmMmh5NTBlNzFyYXhiNnkzOGxzMmE4bTBwOWxjamZ1dHltayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 </div>
 
 ###
